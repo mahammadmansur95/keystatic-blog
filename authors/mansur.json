@@ -1,0 +1,17 @@
+{
+  "name": "mansurrr ali",
+  "email": "test@gmail.com",
+  "showcase": [
+    {
+      "discriminant": "link",
+      "value": {
+        "label": "url",
+        "url": "https://egghead.io/lessons/node-js-create-a-new-next-js-project-with-the-keystatic-cli-37742622"
+      }
+    },
+    {
+      "discriminant": "youtubeVideoId",
+      "value": "https://www.youtube.com/watch?v=Q5Oe0w2TbTc&list=PLYyvXL46d-pwr4dm0XYYgpS3hcIkM8Bbo&index=5&ab_channel=Thinkmill"
+    }
+  ]
+}
