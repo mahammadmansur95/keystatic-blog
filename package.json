@@ -21,6 +21,7 @@
     "start": "next start"
   },
   "engines": {
-    "node": "^20.10.0"
+    "node": "^20.10.0",
+    "npm" : "10.2.3"
   }
 }
