@@ -5,7 +5,10 @@ export const markdocConfig = fields.markdoc.createMarkdocConfig({});
 
 export default config({
   storage: {
-    kind: 'local',
+    kind: 'cloud',
+  },
+  cloud: {
+    project: 'keystatic-testing/keystatic-blog',
   },
   collections: {
     posts: collection({
